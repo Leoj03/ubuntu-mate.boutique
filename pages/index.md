@@ -36,8 +36,7 @@ pre-installed including full support.
         The Entroware Aether is powered by Intel's latest generation of
         processors, ensuring maximum performance and energy efficiency.
         Configure yours today with the choice of a Core i3, i5, or i7.
-        Accelerate your system with an additional M.2 SSD With an
-        optional blazing fast M2 SSD, Entroware will install the
+        Accelerate your system with an additional M.2 SSD. Entroware will install the
         operating system to this drive for lightning fast boot ups and
         application start-ups, so you can get the best out of your
         Ubuntu MATE laptop.
